@@ -1,4 +1,4 @@
-# AI4LATEX## 
+# AI4LATEX
 
 一个基于Cloudflare Workers的在线工具，支持上传数学公式图片，使用AI（Gemini 2.0 Flash Exp/OpenAI）智能识别并转换为可编辑的LaTeX代码。
 
