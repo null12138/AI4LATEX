@@ -146,4 +146,4 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 
 > **提示**：部署后可自定义域名（workers.dev自域名），使用方法：在Cloudflare仪表板中添加自定义域名DNS记录
 
-**© 2023 图片转LaTeX工具 - [MIT License](LICENSE)**
+**© 2025 图片转LaTeX工具 - [MIT License](LICENSE)**
